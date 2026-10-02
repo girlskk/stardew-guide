@@ -1,0 +1,4 @@
+# Keep the original offline copy locally; publish index.html.
+/星露谷数据手册.html
+/.DS_Store
+/Thumbs.db
